@@ -1,7 +1,5 @@
 -
-- #oi
-##Tenho 14 anos 
-###Nasci em outubro
+- #Oi
 - 👋 Hi, I’m @KarolineAne
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
