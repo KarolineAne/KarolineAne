@@ -1,7 +1,16 @@
--
-- ##Oi
 
--
+# oii
+##  Sou a Ane
+#### sou do ensino médio
+#### Gosto de ler
+#### Nasci em outubro
+#### Tenho 14 anos
+#### Libra
+#### Minha cor favorita é roxo 
+##### ane.felipe@escola.pr.gov.br
+#### ![image](https://user-images.githubusercontent.com/111078868/185456604-39805c6c-3644-441b-8ca6-a906b3630670.png)
+
+
 
 <!---
 KarolineAne/KarolineAne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
